@@ -1,50 +1,82 @@
-# Bodha IAS App
+# 📚 Bodha IAS App
 
 ## 📌 Overview
-Bodha IAS App is a React Native mobile application designed for IAS aspirants. The application provides a discussion forum where users can create posts, browse discussions by category, and interact with educational content.
+Bodha IAS App is a React Native mobile application designed for UPSC/IAS aspirants. The application provides discussion forums, study materials, current affairs updates, mock tests, and user-friendly navigation to support exam preparation.
+
+---
+
+## 📱 Application Screenshot
+
+![Bodha IAS App](bodha%20ias.png)
+
+---
 
 ## 🚀 Features
-- User Login & Authentication
-- Secure Logout Functionality
-- Discussion Forum
-- Create Posts
-- Category-Based Post Filtering
-- Responsive Mobile UI
-- Real-Time User Interaction
+
+- 🔐 User Authentication (Login & Logout)
+- 📝 Discussion Forum
+- 📂 Category-Based Post Filtering
+- 📚 Study Materials
+- 📰 Current Affairs Updates
+- 🧪 Mock Tests
+- 🔖 Bookmarks
+- 👤 User Profile Management
+- 📱 Responsive Mobile UI
+
+---
 
 ## 🛠 Technologies Used
+
 - React Native
 - JavaScript
-- AsyncStorage
 - React Navigation
+- AsyncStorage
 - REST APIs
 
-## 📱 Modules
+---
+
+## 📋 Modules
+
 ### Authentication
 - Login
 - Logout
 - Session Management
 
 ### Discussion Forum
-- View Posts
 - Create Posts
+- View Posts
 - Category Selection Dropdown
 - Category-Based Filtering
 
-### User Experience
-- Responsive Design
-- Easy Navigation
-- Clean Interface
+### Learning Resources
+- Study Materials
+- Current Affairs
+- Mock Tests
 
-## 🎯 Responsibilities
-- Developed UI Screens
-- Implemented Category Filtering
-- Integrated Authentication Flow
-- Managed User Sessions using AsyncStorage
-- Enhanced Discussion Forum Functionality
+---
 
-## 📷 Screenshots
-(Add application screenshots here)
+## 🎯 Key Contributions
+
+- Developed responsive mobile screens.
+- Implemented category-based filtering in discussion forums.
+- Added secure logout functionality using AsyncStorage.
+- Improved user experience with intuitive navigation.
+- Enhanced forum usability with dropdown-based category selection.
+
+---
+
+## 📷 Output
+
+The application provides a seamless experience for IAS aspirants with learning resources, discussion forums, and progress-oriented features.
+
+---
 
 ## 👩‍💻 Author
-Nelavai Usha
+
+**Nelavai Usha**
+
+- GitHub: https://github.com/nelavaiusha060-419
+- LinkedIn: https://www.linkedin.com/in/usha-nelavai-b71904348
+
+---
+⭐ If you like this project, consider giving it a star!
